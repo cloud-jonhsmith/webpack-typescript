@@ -1,0 +1,1 @@
+export let saludo:string = "Hola desde otro";
